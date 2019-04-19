@@ -1,2 +1,2 @@
 # send
-A system to algorithm submission
+A system to academic algorithm submission
